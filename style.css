@@ -45,8 +45,6 @@ body {
   font-weight: 500;
 }
 
-
-/* large screen */
 /* large screen (Desktops > 1024px) */
 @media (min-width: 1025px) {
 .tool-set{
